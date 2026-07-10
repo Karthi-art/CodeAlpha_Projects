@@ -91,10 +91,7 @@ _CodeAlpha_Projects/
 │   ├── bank_accounts.dat (generated at runtime)
 │   ├── README.md
 │   └── output/
-│
-├── README.md (this file)
-├── .gitignore
-└── LICENSE
+
 ```
 
 ---
