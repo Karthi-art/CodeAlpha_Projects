@@ -1,4 +1,4 @@
-# Task 1: Simple Calculator Program ⭐
+# Task 1: Simple Calculator Program 
 
 ## Overview
 A basic arithmetic calculator that performs fundamental mathematical operations using C language and switch-case statements.
